@@ -3,6 +3,6 @@ class java1{
         System.out.println("hrllo");
         System.out.println("who");
         int a;
-        
+
     }
 }
